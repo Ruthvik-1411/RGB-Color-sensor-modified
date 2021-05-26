@@ -1,6 +1,6 @@
 # RGB-Color-sensor-modified
 It is a simple circuit that detects the color of light  around it( RGB in this case) 
-As you can see the led pins and ldr input pin are declared in the beginning.
+<br>As you can see the led pins and ldr input pin are declared in the beginning.<br>
 The action of the pins has been declared in setup.
 Generally we will be needing two circuits to operate. one that will 'on' the led and other which detects the colour.
 They must be independent of each other. As it is difficult to create two different circuits, both of them were combined into one single code. However their action is independent even if they are in the same code.
